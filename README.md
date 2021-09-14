@@ -7,8 +7,8 @@
 * item3
 
 _here is and exampled of an ORDERED list..._
-_ item1
-_ item2
-_ item3
+1 item1
+2 item2
+3 item3
 
 

@@ -1,4 +1,4 @@
-# Week One
+# Notes One
 ## Cloud Concept Overview
 
 * Quote via TechRadar.com "Cloud compututing services also offer the advantage of being scalable, which means not only can you access additional resources exactly as you need them, but you are also charged only for the services you use so there's no need to buy in extra hardware for additional redundancy."

@@ -211,6 +211,8 @@ _**Billing and Cost Management:**_
    * Budgets use the cost visualization provided by Cost Explorer to show you the status of your budgets. This provides forecasts of your estimated costs and tracks your AWS usage, including your free tier usage. 
    * You can also use budgets to create Amazon Simple Notification Service (Amazon SNS) notifications that tell you when you go over your budgeted amounts, or when your estimated costs exceed your budgets.
 
-
+**Cost and Usage Report:**
+   * You can choose to have AWS publish billing reports to an Amazon Simple Storage Service (Amazon S3) bucket that you own. 
+   * You can receive reports that break down your costs by the hour or month, by product or product resource, or by tags that you define yourself.
 
 

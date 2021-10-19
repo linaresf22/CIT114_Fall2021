@@ -1,6 +1,8 @@
 # Notes 04:
 ## Cloud Security
 
+
+# General CyberSecurity
 What is Cyber Security?
 * the art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information.
 
@@ -28,12 +30,31 @@ How can you improve your cybersecurity?
   * _*Install a firewall.*_ Firewalls may be able to prevent some types of attack vectors by blocking malicious traffic before it can enter a computer system, and by restricting unnecessary outbound communications. Some device operating systems include a firewall. Enable and properly configure the firewall as specified in the device or system owner’s manual.
   * _*Be suspicious of unexpected emails.*_ Phishing emails are currently one of the most prevalent risks to the average user. The goal of a phishing email is to gain information about you, steal money from you, or install malware on your device. Be suspicious of all unexpected emails.
   
-  **THE AIC Triad:**
-  * Availability
-  * Integrity
-  * Confidentiality
-  
-  
+  **THE AIC Triad:** The fundamentals of security (Combination of principles)
+  * _Availability_: Systems and networkds must be up and running
+    * Information is accessible to authorized user: Alwyas are your fingertips
+    * Redundancy: Build services that will always be available
+    * Fault tolerance: System will continue to run even when a failute occurs
+    * Patching: stability and close security holes
+  * _Integrity_: Messages can't be modified without detection
+    * Data is stored and trasferred as intended 
+    * Hashing: Map data of an arbitrary length to data of a fixed length
+    * Digital signatures: Mathermatical scheme to verify the integrity of data. Other end checks and maintains integrity of data to match with signature
+    * Certificates: combine with a digital signature to verify an individual or resources 
+    * Non-repudiation: provinding proof of integrity 
+  * _Confidentiality_: Prevent disclosure of information to unauthorized individuals or systems 
+    * Encryption of information 
+    * Access controls: rights and permission to resources
+    * Steganography : Conceling info within another piece of information (through pictures)
+  * _Safety_
+    * Excape plants and routes:
+      * Best way out of a building or an area
+    * Drills 
+      * Test and adjust: to analyze how quickly people reacted and can be motified. 
+    * Testing Controls: 
+      * Run periodic test against physical and digital security
+
+# AWS Security
   
   
   
